@@ -1,0 +1,21 @@
+{
+  "name": "Gibbs Bakehouse Loyalty",
+  "short_name": "Gibbs Loyalty",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C2242",
+  "theme_color": "#0C2242",
+  "description": "Loyalty & Daily Specials app for The Gibbs Family Bakehouse.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
